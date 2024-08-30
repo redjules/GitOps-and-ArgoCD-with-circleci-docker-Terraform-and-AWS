@@ -28,11 +28,6 @@ we create access key with CLI
 
 
 
-
-
-<img width="699" alt="Screenshot 2024-08-30 at 21 00 09" src="https://github.com/user-attachments/assets/3c9c7ef1-a9ca-4ab1-94a7-d1d40e206f27">
-
-
 We go to Visual Code and use aes configure:
 
 <img width="731" alt="Screenshot 2024-08-30 at 21 04 37" src="https://github.com/user-attachments/assets/dbc7e8f0-8e91-44fb-a7e5-53cd41b723ae">
