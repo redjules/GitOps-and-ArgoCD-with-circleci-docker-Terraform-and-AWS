@@ -32,3 +32,7 @@ We go to Visual Code and use aes configure:
 
 <img width="731" alt="Screenshot 2024-08-30 at 21 04 37" src="https://github.com/user-attachments/assets/dbc7e8f0-8e91-44fb-a7e5-53cd41b723ae">
 
+we clone the repo:
+
+<img width="924" alt="Screenshot 2024-08-30 at 21 08 02" src="https://github.com/user-attachments/assets/5deb7acc-49db-4df8-a1d7-b4f530317bd2">
+
